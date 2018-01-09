@@ -1,3 +1,6 @@
+//Musikk legges i lister. Noe duplikat kode. Generisk beholder? 
+//Leser output fra arduinokode slik at riktig tag (= spilleliste) spilles av. Sliter med hopping på tvers av lister, når button presses.
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
